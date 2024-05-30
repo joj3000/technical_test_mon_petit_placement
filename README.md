@@ -1,3 +1,4 @@
+
 # Technical test for Mon Petit Placement
 
 
@@ -27,3 +28,10 @@ Inside the app folder, replace the following lines:
 	// with this
 	String urlAuth = "10.0.2.2:8080"; 
 	/// or with whatever the local express server gives you
+
+Maybe you should also replace the following lines:
+
+    // replace all these
+	Uri.https(...
+	// with this
+	Uri.http( 
