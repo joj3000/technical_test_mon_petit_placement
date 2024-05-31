@@ -17,7 +17,7 @@ Creation of a mini app :
 
 `$ cd <path_to_folder>/technical-test-api`
 
-`$ npm install -ci`
+`$ npm install`
 
 `$ npm start`
 
